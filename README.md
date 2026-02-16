@@ -6,6 +6,6 @@ This project is just a simple implementation of a raindrop animation using the n
 ## Build and Run
 Build the project using the following command:
 ```bash
-gcc main.c -o raindrop -lncurses && ./raindrop
+gcc raindrop.c -o raindrop -lncurses && ./raindrop
 ```
 - Ensure you have ncurses library installed on your system to compile and run the code successfully.
